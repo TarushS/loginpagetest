@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">consellium</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="register_user">Register User</string>
+    <string name="already_registered_sign_here">Already Registered? Sign here</string>
+</resources>

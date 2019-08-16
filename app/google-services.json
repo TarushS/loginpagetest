@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1094355238520",
+    "firebase_url": "https://conselliumtest.firebaseio.com",
+    "project_id": "conselliumtest",
+    "storage_bucket": "conselliumtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094355238520:android:932d3341812d8396",
+        "android_client_info": {
+          "package_name": "com.anonimbus.consellium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094355238520-8tr5f06bapk85sm8bp1gerdba8g8fm3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonimbus.consellium",
+            "certificate_hash": "05526b29680a452bb38604eb89b5b0dc6f432995"
+          }
+        },
+        {
+          "client_id": "1094355238520-v3ji9lbih7ci8hsm9s7abhi4n34s10tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs--vQhRq6Bh82ibBH5-NC086JDRQXOOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094355238520-v3ji9lbih7ci8hsm9s7abhi4n34s10tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
